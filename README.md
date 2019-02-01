@@ -10,9 +10,7 @@ Download latest CDTs/DSKs from: https://github.com/santiontanon/phantomas20cpc/r
 
 Screenshots:
 
-<img src="https://raw.githubusercontent.com/santiontanon/phantomas20cpc/master/extras/ss1.png" alt="title" width="400"/> 
-
-<img src="https://raw.githubusercontent.com/santiontanon/phantomas20cpc/master/extras/ss2.png" alt="title" width="400"/> 
+<img src="https://raw.githubusercontent.com/santiontanon/phantomas20cpc/master/extras/ss1.png" alt="title" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/phantomas20cpc/master/extras/ss2.png" alt="title" width="400"/> 
 
 You can see a video of the game at: https://www.youtube.com/watch?v=9SlhV3mI3tI
 
