@@ -10,9 +10,9 @@ Download latest CDTs/DSKs from: https://github.com/santiontanon/phantomas20cpc/r
 
 Screenshots:
 
-<img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/data/extras/ss1.png" alt="title" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/data/extras/ss1.png" alt="in game 1" width="400"/>
+<img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/extras/ss1.png" alt="title" width="400"/> 
 
-<img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/data/extras/ss2.png" alt="title" width="400"/> <img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/data/extras/ss2.png" alt="in game 2" width="400"/>
+<img src="https://raw.githubusercontent.com/santiontanon/xspelunker/master/extras/ss2.png" alt="title" width="400"/> 
 
 You can see a video of the game at: https://www.youtube.com/watch?v=9SlhV3mI3tI
 
