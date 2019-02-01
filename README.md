@@ -55,3 +55,5 @@ Graphics, Art and Design: Jordi Sureda (@jsureda)
 Code and Music: Santi Ontañón (@santiontanonMSX)
 
 Beta testers: Jorge González, Atila Merino and Rubén Gutiérrez
+
+Thanks to @sJoseman for several tips during development (specially how to use several areas of the video memory that we were not using initially!)
