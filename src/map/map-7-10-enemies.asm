@@ -1,0 +1,7 @@
+items:
+  db 2
+  db ITEM_FOOD2+2*14, 88, 48, 0
+  db ITEM_FOOD2+2*15, 48, 96, 0
+enemies:
+  db 1
+  db ENEMY_STATE_HLASER_HIDDEN, 8, 120, 8, 104, ENEMY_LASER_HORIZONTAL

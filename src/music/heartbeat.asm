@@ -1,0 +1,52 @@
+  include "../constants.asm"
+  org #0000
+heartbeat_song:
+  db 7,#b8
+heartbeat_song_loop:
+  db 8,#0d
+  db 1,#04, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db 1,#05, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db 8,#0b
+  db 1,#06, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db 8,#0a
+  db 1,#07, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db 8,#09
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db 8,#08
+  db 1,#08, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+
+  db 8,#0a
+  db 1,#03, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db MUSIC_CMD_SKIP
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db MUSIC_CMD_SKIP
+  db 8,#09
+  db 1,#04, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db MUSIC_CMD_SKIP
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db MUSIC_CMD_SKIP
+  db 8,#08
+  db 1,#05, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db MUSIC_CMD_SKIP
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db MUSIC_CMD_SKIP
+  db 8,#07
+  db 1,#06, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db MUSIC_CMD_SKIP
+  db 8,#06
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db MUSIC_CMD_SKIP
+  db 8,#05
+  db 1,#07, 0+MUSIC_CMD_TIME_STEP_FLAG, #00
+  db MUSIC_CMD_SKIP
+  db 8,#04
+  db 0+MUSIC_CMD_TIME_STEP_FLAG, #f0
+  db MUSIC_CMD_SKIP
+  db 8+MUSIC_CMD_TIME_STEP_FLAG,#02
+  db MUSIC_CMD_SKIP, MUSIC_CMD_SKIP
+  db SFX_CMD_END
+  db MUSIC_CMD_GOTO
+  dw (heartbeat_song_loop - heartbeat_song)

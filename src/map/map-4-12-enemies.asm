@@ -1,0 +1,5 @@
+items:
+  db 0
+enemies:
+  db 1
+  db ENEMY_STATE_WAITING_LEFT, 110, 24, 110, 24, ENEMY_ARROW_LEFT_RIGHT

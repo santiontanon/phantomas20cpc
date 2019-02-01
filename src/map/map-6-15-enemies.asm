@@ -1,0 +1,6 @@
+items:
+  db 0
+enemies:
+  db 2
+  db ENEMY_STATE_RIGHT+2, 8, 80, 48, 48, ENEMY_BAT
+  db ENEMY_STATE_RIGHT+2, 16, 64, 56, 80, ENEMY_PLATFORM

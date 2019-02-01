@@ -1,0 +1,7 @@
+items:
+  db 2
+  db ITEM_FOOD2+2*28, 88, 96, 0
+  db ITEM_FOOD2+2*29, 104, 96, 0
+enemies:
+  db 1
+  db ENEMY_STATE_WAITING_LEFT, 110, 40, 110, 40, ENEMY_ARROW_LEFT_RIGHT

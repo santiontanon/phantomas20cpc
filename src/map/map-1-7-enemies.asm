@@ -1,0 +1,6 @@
+items:
+	db 0
+enemies:
+    db 2
+    db ENEMY_STATE_STATIONARY_SHOWING, 0, 0,  13*8,16*6,  ENEMY_STATIONARY_TRAP
+    db ENEMY_STATE_UP+2, 16*2+1, 6*16,  14*8,16*3,  ENEMY_CROSS

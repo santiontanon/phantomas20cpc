@@ -1,0 +1,8 @@
+items:
+	db 0
+enemies:
+    db 4
+    db ENEMY_STATE_RIGHT+1, 4*8+1, 7*8,  5*8,16*1,  ENEMY_BAT
+    db ENEMY_STATE_RIGHT+3, 8+1, 3*8,  2*8,16*6,  ENEMY_SPIDER
+    db ENEMY_STATE_RIGHT+2, 3*8+1, 8*8,  3*8,16*4,  ENEMY_PLATFORM
+    db ENEMY_STATE_RIGHT+2, 4*8+1, 8*8,  6*8,16*2,  ENEMY_PLATFORM

@@ -1,0 +1,6 @@
+items:
+  db 0
+enemies:
+  db 2
+  db ENEMY_STATE_RIGHT+2, 32, 88, 56, 80, ENEMY_GHOST
+  db ENEMY_STATE_RIGHT+2, 56, 104, 80, 96, ENEMY_SKULL

@@ -1,0 +1,7 @@
+items:
+    db 1
+    db ITEM_SQUARE_KEY, 8*9, 16*2, 0
+enemies:
+    db 2
+    db ENEMY_STATE_RIGHT+2, 6*8+1, 12*8,  8*8,16*5,  ENEMY_PLATFORM
+    db ENEMY_STATE_HLASER_HIDDEN, 8*5,8*14, 8*5,16*6+8,  ENEMY_LASER_HORIZONTAL
