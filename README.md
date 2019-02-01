@@ -18,7 +18,7 @@ You can see a video of the game at: https://www.youtube.com/watch?v=9SlhV3mI3tI
 
 Rewind the tape to the beginning. Press CONTROL+ENTER. Start the tape, and press any key. The game will load automatically. If anything goes wrong, rewind the tape again, and gently blow the tape and the tape reader on your CPC. Load the game again using a different volume. This will be useless, but it will keep you entertained for a while. If none of this works, just throw the tape away and use an emulator.
 
-Insert the disk in drive A. Type RUN”PH20EN and press ENTER. IMPORTANT: this disk is not compatible with original 3’’ disk drives. You must have a 3.5’’ disk drive adapted to your CPC. This disk will not work on PC computers. Insert the disk in the slot horizontally, do not try to put it in vertically.
+If you have the disk that came with the Insane edition: Insert the disk in drive A. Type RUN”PH20EN and press ENTER. IMPORTANT: this disk is not compatible with original 3’’ disk drives. You must have a 3.5’’ disk drive adapted to your CPC. This disk will not work on PC computers. Insert the disk in the slot horizontally, do not try to put it in vertically.
 
 You can use a compatible emulator to play the game on an inferior machine. NOTE: some errors have been detected in some emulators which prevent from completing the game. We recommend using the Retro Virtual Machine emulator (www.retrovirtualmachine.org).
 
